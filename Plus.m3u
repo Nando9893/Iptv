@@ -1,9 +1,8 @@
-#EXTM3U
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSZTw4TOpJVOlAjwNy1vkTXDSvRbqIghlZA&usqp=CAU",A Barraca do Beijo 3
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Poseidon" tvg-logo="", Barraca do Beijo 3
 https://f002.backblazeb2.com/file/backunder/dub/727745.mp4
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJ0qE2Fmr3myEEJ2MhKT9eWzT5TBDu7rWdQ&usqp=CAU", Convenção das Bruxas
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Poseidon" tvg-logo="", Convenção das Bruxas
 http://ns5.zwatch.club/utf8/saidai/dub/531219.mp4
-#EXTINF:-1 group-title="Filmes" tvg-logo="", Lucas um Intruso no Formigueiro 
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Lucas um Intruso no Formigueiro" tvg-logo="", Lucas um Intruso no Formigueiro 
 http://wys.vahypher.xyz/sync/f/05/tt0429589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Poseidon" tvg-logo="", Poseidon 
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Poseidon" tvg-logo="", Poseidon 
 http://wys.vahypher.xyz/sync/f/05/tt0409182.mp4
