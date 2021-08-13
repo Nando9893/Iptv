@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Filmes" tvg-name="Poseidon" tvg-logo="", Barraca do Beijo 3
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Barraca do Beijo 3" tvg-logo="https://br.web.img3.acsta.net/pictures/21/07/02/11/47/1576324.jpg", Barraca do Beijo 3
 https://f002.backblazeb2.com/file/backunder/dub/727745.mp4
-#EXTINF:-1 tvg-id="Filmes" tvg-name="Poseidon" tvg-logo="", Convenção das Bruxas
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Convenção das Bruxas" tvg-logo="https://br.web.img3.acsta.net/pictures/20/10/03/00/17/1325398.jpg", Convenção das Bruxas
 http://ns5.zwatch.club/utf8/saidai/dub/531219.mp4
-#EXTINF:-1 tvg-id="Filmes" tvg-name="Lucas um Intruso no Formigueiro" tvg-logo="", Lucas um Intruso no Formigueiro 
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Lucas um Intruso no Formigueiro" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/92/01/31/20174608.JPG", Lucas um Intruso no Formigueiro 
 http://wys.vahypher.xyz/sync/f/05/tt0429589.mp4
-#EXTINF:-1 tvg-id="Filmes" tvg-name="Poseidon" tvg-logo="", Poseidon 
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Poseidon" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/95/30/64/20395594.jpg", Poseidon 
 http://wys.vahypher.xyz/sync/f/05/tt0409182.mp4
 #EXTINF:-1  tvg-name="Tarzan e Jane" tvg-logo="https://br.web.img3.acsta.net/pictures/14/12/01/12/43/556363.jpg", Tarzan e Jane 
 http://vps.vahypher.xyz/token/03/tt0313680.mp4
-#EXTINF:-1  tvg-name="Sammy a Grande Fuga" tvg-logo="", Sammy a Grande Fuga
+#EXTINF:-1  tvg-name="Sammy a Grande Fuga" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/94/36/71/20421593.jpg", Sammy a Grande Fuga
 http://vps.vahypher.xyz/token/03/tt2288005.mp4
-#EXTINF:-1  tvg-name="Esquadrão Suicida 2" tvg-logo="", Esquadrão Suicida 2
+#EXTINF:-1  tvg-name="Esquadrão Suicida 2" tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/22/22/19/1495362.jpg", Esquadrão Suicida 2
 http://vps.vahypher.xyz/token/04/tt6334354HD.mp4
