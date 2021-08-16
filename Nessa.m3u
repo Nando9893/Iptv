@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF: -1 group-title = "Comédia" tvg-logo = "", Minha mãe é uma Peça 
-
-#EXTINF: -1 group-title = "Comédia" tvg-logo = "",Minha mãe é uma Peça 2
-
-#EXTINF: -1 group-title = "Comédia" tvg-logo = "",Minha mãe é uma Peça 3
-
+#EXTINF: -1 group-title = "Comédia" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBq6Td7kyEfgPJ-XUNPOp_B6k1d244Kh1Pw&usqp=CAU", Minha mãe é uma Peça 
+http://vps.vahypher.xyz/token/04/tt2464018.mp4
+#EXTINF: -1 group-title = "Comédia" tvg-logo = "https://br.web.img2.acsta.net/pictures/16/11/18/15/20/442595.jpg",Minha mãe é uma Peça 2
+http://vps.vahypher.xyz/token/03/tt3212812.mp4
+#EXTINF: -1 group-title = "Comédia" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6TpdWsnV-8WXqC-zVm6oDPAJRc9Hx5HebQ&usqp=CAU",Minha mãe é uma Peça 3
+http://vps.vahypher.xyz/token/03/tt10611372.mp4
 #EXTINF: -1 group-title = "Comédia" tvg-logo = "",
 
 #EXTINF: -1 group-title = "Comédia" tvg-logo = "",
